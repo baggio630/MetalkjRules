@@ -15,4 +15,5 @@ DOMAIN,openaipublic.blob.core.windows.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
 
