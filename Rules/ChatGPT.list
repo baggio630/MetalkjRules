@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN,openaiapi-site.azureedge.net
